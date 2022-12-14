@@ -1,2 +1,2 @@
 # odin-recipes
-First Website
+A few recipes for dishes I like. Note to reader: recipes are not compeltely accurate.
