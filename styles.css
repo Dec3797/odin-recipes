@@ -2,3 +2,8 @@ h1 {
     font-weight: 900;
     background-color: paleturquoise;
 }
+
+img {
+    height: 300px;
+    width: auto;
+}
